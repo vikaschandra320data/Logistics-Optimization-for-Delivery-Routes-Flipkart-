@@ -1,0 +1,2 @@
+# Logistics-Optimization-for-Delivery-Routes-Flipkart-
+Designed an analytics system utilizing SQL to optimize Flipkart delivery routes and boost shipment efficiency. Performed extensive data cleaning, managing duplicates, null entries, and unifying date formats. Applied SQL methodologies, including aggregations and window functions, to evaluate logistic processes and improve delivery performances.
